@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andrea\\Documents\\Blazor_c#\\Friuland_in_Blazor\\Friuland_in_Blazor.csproj": {}
+    "C:\\Users\\Alessio\\Documents\\esercizi_C#\\Friuland_in_Blazor\\Friuland_in_Blazor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andrea\\Documents\\Blazor_c#\\Friuland_in_Blazor\\Friuland_in_Blazor.csproj": {
+    "C:\\Users\\Alessio\\Documents\\esercizi_C#\\Friuland_in_Blazor\\Friuland_in_Blazor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andrea\\Documents\\Blazor_c#\\Friuland_in_Blazor\\Friuland_in_Blazor.csproj",
+        "projectUniqueName": "C:\\Users\\Alessio\\Documents\\esercizi_C#\\Friuland_in_Blazor\\Friuland_in_Blazor.csproj",
         "projectName": "Friuland_in_Blazor",
-        "projectPath": "C:\\Users\\Andrea\\Documents\\Blazor_c#\\Friuland_in_Blazor\\Friuland_in_Blazor.csproj",
-        "packagesPath": "C:\\Users\\Andrea\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andrea\\Documents\\Blazor_c#\\Friuland_in_Blazor\\obj\\",
+        "projectPath": "C:\\Users\\Alessio\\Documents\\esercizi_C#\\Friuland_in_Blazor\\Friuland_in_Blazor.csproj",
+        "packagesPath": "C:\\Users\\Alessio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alessio\\Documents\\esercizi_C#\\Friuland_in_Blazor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Andrea\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Alessio\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
