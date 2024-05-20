@@ -21,6 +21,38 @@
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
+      "Id": "C:\\Users\\Andrea\\Documents\\Blazor_c#\\Friuland_in_Blazor\\wwwroot\\images\\banner.png",
+      "PackagePath": "staticwebassets\\images\\banner.png"
+    },
+    {
+      "Id": "C:\\Users\\Andrea\\Documents\\Blazor_c#\\Friuland_in_Blazor\\wwwroot\\images\\instagram.png",
+      "PackagePath": "staticwebassets\\images\\instagram.png"
+    },
+    {
+      "Id": "C:\\Users\\Andrea\\Documents\\Blazor_c#\\Friuland_in_Blazor\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Andrea\\Documents\\Blazor_c#\\Friuland_in_Blazor\\wwwroot\\images\\sfondo.jpg",
+      "PackagePath": "staticwebassets\\images\\sfondo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Andrea\\Documents\\Blazor_c#\\Friuland_in_Blazor\\wwwroot\\images\\sfondo2.jpg",
+      "PackagePath": "staticwebassets\\images\\sfondo2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Andrea\\Documents\\Blazor_c#\\Friuland_in_Blazor\\wwwroot\\images\\tik tok.png",
+      "PackagePath": "staticwebassets\\images\\tik tok.png"
+    },
+    {
+      "Id": "C:\\Users\\Andrea\\Documents\\Blazor_c#\\Friuland_in_Blazor\\wwwroot\\images\\x.png",
+      "PackagePath": "staticwebassets\\images\\x.png"
+    },
+    {
+      "Id": "C:\\Users\\Andrea\\Documents\\Blazor_c#\\Friuland_in_Blazor\\wwwroot\\styles\\style.css",
+      "PackagePath": "staticwebassets\\styles\\style.css"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Friuland_in_Blazor.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

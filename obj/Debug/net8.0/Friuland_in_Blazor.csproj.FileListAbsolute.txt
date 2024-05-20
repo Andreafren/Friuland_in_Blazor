@@ -27,3 +27,4 @@ C:\Users\Andrea\Documents\Blazor_c#\Friuland_in_Blazor\obj\Debug\net8.0\refint\F
 C:\Users\Andrea\Documents\Blazor_c#\Friuland_in_Blazor\obj\Debug\net8.0\Friuland_in_Blazor.pdb
 C:\Users\Andrea\Documents\Blazor_c#\Friuland_in_Blazor\obj\Debug\net8.0\Friuland_in_Blazor.genruntimeconfig.cache
 C:\Users\Andrea\Documents\Blazor_c#\Friuland_in_Blazor\obj\Debug\net8.0\ref\Friuland_in_Blazor.dll
+C:\Users\Andrea\Documents\Blazor_c#\Friuland_in_Blazor\obj\Debug\net8.0\Friuland_in_Blazor.sourcelink.json

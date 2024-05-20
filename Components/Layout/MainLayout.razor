@@ -1,23 +1,118 @@
 ﻿@inherits LayoutComponentBase
+<head>
+    <link rel="stylesheet" href="/styles/style.css">
+</head>
+<header>
+     <div class="top-menu">
+            <div id="logo">
+                <img src="/images/logo.png" alt="immagine" width="50" height="50"<p>Friuland</p>
+            </div>
 
-<div class="page">
-    <div class="sidebar">
-        <NavMenu />
-    </div>
-
-    <main>
-        <div class="top-row px-4">
-            <a href="https://learn.microsoft.com/aspnet/core/" target="_blank">About</a>
+            <div id="menu">
+                <nav>
+                    <ul>
+                        <li>
+                            <a href="/">Home</a>
+                        </li>
+                        <li>
+                            <a href="/prenota.html">Prenota</a>
+                        </li>
+                        <li>
+                            <a href="/le-nostre-giostre">Elenco giostre</a>
+                        </li>
+                        <li>
+                            <a href="/ristoranti">Ristoranti</a>
+                        </li>
+                        <li><a href="/news">News</a></li>
+                    </ul>
+                </nav>
+            </div>
         </div>
+</header>
 
-        <article class="content px-4">
-            @Body
-        </article>
-    </main>
-</div>
 
-<div id="blazor-error-ui">
-    An unhandled error has occurred.
-    <a href="" class="reload">Reload</a>
-    <a class="dismiss">🗙</a>
-</div>
+<footer>
+            <div id="Blocco1">
+            <img src="/images/logo.png" alt="immagine" width="50" height="50">
+            <h3>
+                Heading
+            </h3>
+            <p>
+                Friuland inc<br />
+                Via di Qua, 69<br />
+                <a href="mailto:info@email.com">info@email.com</a>
+            </p>
+        </div>
+        <div id="Blocco2">
+            <h3>
+                Menu Pagine
+            </h3>
+            <ul>
+                <li>
+                    <a href="/contatti.html">Contatti</a>
+                </li>
+                <li>
+                    <a href="/servizi.html">Servizi</a>
+                </li>
+                <li>
+                    <a href="/dove-siamo.html">Dove siamo</a>
+                </li>
+            </ul>
+        </div>
+        <div id="Blocco3">
+            <h3>
+                Menu Legale
+            </h3>
+            <ul>
+                <li>
+                    <a href="/termini.html">Termini</a>
+                </li>
+                <li>
+                    <a href="/privacy.html">Privacy</a>
+                </li>
+                <li>
+                    <a href="/reclami.html">Reclami</a>
+                </li>
+            </ul>
+        </div>
+        <div id="Blocco4">
+            <h3>
+                Ultimo
+            </h3>
+
+            <div>
+                <ul>
+                    <li>
+                        <a target="_blank" href="https://instagram.com" aria-label="Friuland su instagram"><img
+                                src="/images/instagram.png" alt="icona su instagram" width="50"
+                                height="50"></a>
+
+                    </li>
+                    <li>
+                        <a target="_blank" href="https://tiktok.com" aria-label="Friuland su tik tok"><img
+                                src="/images/tik tok.png" alt="icona di tik tok" width="50" height="50"></a>
+                    </li>
+                    <li>
+                        <a target="_blank" href="https://x.com" aria-label="Friuland su x"><img
+                                src="/images/x.png" alt="icona di x" width="50" height="50"></a>
+                    </li>
+                </ul>
+            </div>
+
+            <div>
+                <img id="Banner" src="/images/Banner.png" alt="immagine" width="90" height="90">
+            </div>
+
+            <div>
+                <ul>
+                    <li>
+                        <a href="/cookie policy">Cookie policy</a>
+                    </li>
+                    <li>
+                        <a href="/Privacy policy">Privacy policy</a>
+                    </li>
+                </ul>
+            </div>
+
+        </div>
+    </footer>
