@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Friuland_in_Blazor/1.0.0": {
+        "runtime": {
+          "Friuland_in_Blazor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Friuland_in_Blazor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
