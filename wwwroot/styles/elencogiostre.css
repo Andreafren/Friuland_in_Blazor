@@ -1,0 +1,78 @@
+body.elenco.giostre {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* 4 colonne */
+    gap: 20px; /* Spazio tra le card */
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+@media (max-width: 1024px) {
+    main {
+        grid-template-columns: repeat(3, 1fr); /* 3 colonne su schermi medi */
+    }
+}
+
+@media (max-width: 768px) {
+    main {
+        grid-template-columns: repeat(2, 1fr); /* 2 colonne su schermi piccoli */
+    }
+}
+
+@media (max-width: 480px) {
+    main {
+        grid-template-columns: 1fr; /* 1 colonna su schermi molto piccoli */
+    }
+}
+
+.card {
+    width: 100%;
+    max-width: 30rem; /* Massima larghezza della card */
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+}
+
+.card img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.card-title {
+    margin: 10px 0;
+}
+
+.card-text {
+    margin: 0 0 10px 0;
+}
+
+.btn-primary {
+    background-color: #007BFF;
+    border: none;
+    padding: 10px 20px;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}

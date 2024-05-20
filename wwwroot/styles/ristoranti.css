@@ -1,0 +1,57 @@
+body.ristoranti {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* 4 colonne */
+    gap: 20px; /* Spazio tra le card */
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+@media (max-width: 1024px) {
+    main {
+        grid-template-columns: repeat(3, 1fr); /* 3 colonne su schermi medi */
+    }
+}
+
+@media (max-width: 768px) {
+    main {
+        grid-template-columns: repeat(2, 1fr); /* 2 colonne su schermi piccoli */
+    }
+}
+
+@media (max-width: 480px) {
+    main {
+        grid-template-columns: 1fr; /* 1 colonna su schermi molto piccoli */
+    }
+}
+
+.Ristoranti {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+}
+
+.Ristoranti img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+}
+
+.Ristoranti h2 {
+    margin: 10px 0;
+}
+
+.Ristoranti p {
+    margin: 0;
+}

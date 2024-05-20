@@ -49,6 +49,14 @@
       "PackagePath": "staticwebassets\\images\\x.png"
     },
     {
+      "Id": "C:\\Users\\Andrea\\Documents\\Blazor_c#\\Friuland_in_Blazor\\wwwroot\\styles\\form.css",
+      "PackagePath": "staticwebassets\\styles\\form.css"
+    },
+    {
+      "Id": "C:\\Users\\Andrea\\Documents\\Blazor_c#\\Friuland_in_Blazor\\wwwroot\\styles\\ristoranti.cs",
+      "PackagePath": "staticwebassets\\styles\\ristoranti.cs"
+    },
+    {
       "Id": "C:\\Users\\Andrea\\Documents\\Blazor_c#\\Friuland_in_Blazor\\wwwroot\\styles\\style.css",
       "PackagePath": "staticwebassets\\styles\\style.css"
     },
