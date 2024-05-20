@@ -1,0 +1,21 @@
+﻿<article class="articles">
+    <picture>
+        <img src="/Content/@img" width="400px" height="230px" />
+    </picture>
+    <h4>@Title</h4>
+    <p>@Text</p>
+
+    <a href="/Content/@img" title="Nuova attrazione">LEGGI</a>
+</article>
+
+@code {
+
+    [Parameter]
+    public string Title { get; set; }
+
+    [Parameter]
+    public string Text { get; set; }
+
+    [Parameter]
+    public string img { get; set; }
+}

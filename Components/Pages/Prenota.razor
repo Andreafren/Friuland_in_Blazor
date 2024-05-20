@@ -1,0 +1,46 @@
+﻿@page "/Prenota"
+
+<head>
+     <link rel="stylesheet" href="/styles/form.css">
+</head>
+<body >
+         <b><h2>Il parco divertimento delle pannocchie</h2></b>
+        <div class="formwrapper">
+            <form>
+                <div>
+                    <label for="nome">Nome</label>
+                    <input id="nome" name="nome" type="text" required />
+                </div>
+                <div>
+                    <label for="cognome">Cognome</label>
+                    <input id="cognome" name="cognome" type="text" required />
+                </div>
+                <div>
+                    <label for="data">Data</label>
+                    <input id="data" name="data" type="date" required />
+                </div>
+                <div>
+                    <label for="num_adulti">Adulti</label>
+                    <input id="num_adulti" name="num_adulti" type="number" step="1" min="1" max="10" required />
+                </div>
+                <div>
+                    <label for="num_ridotti">Ridotto</label>
+                    <select id="num_ridotti" name="num_ridotti">
+                        <option>Seleziona un valore</option>
+                        <option>Nessun Ridotto</option>
+                        <option>1</option>
+                        <option>2</option>
+                        <option>3</option>
+                        <option>4</option>
+                        <option>5</option>
+                    </select>
+                </div>
+
+                <div>
+                    <label for="note">Descrivi la tua richiesta</label>
+                    <textarea id="note" name="note" rows="10" cols="40" maxlength="20" placeholder="inserisci la tua nota"></textarea>
+                </div>
+                <input type="submit" value="invia richiesta" />
+            </form>
+        </div>
+    </body>

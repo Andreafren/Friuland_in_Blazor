@@ -22,8 +22,20 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Alessio/Documents/esercizi_C\#/Friuland_in_Blazor/Components/Giostre.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xHaW9zdHJlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alessio/Documents/esercizi_C\#/Friuland_in_Blazor/Components/News.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xOZXdzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Alessio/Documents/esercizi_C\#/Friuland_in_Blazor/Components/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alessio/Documents/esercizi_C\#/Friuland_in_Blazor/Components/Pages/Elenco_giostre.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFbGVuY29fZ2lvc3RyZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Alessio/Documents/esercizi_C\#/Friuland_in_Blazor/Components/Pages/Error.razor]
@@ -34,8 +46,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Alessio/Documents/esercizi_C\#/Friuland_in_Blazor/Components/Pages/Newss.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xOZXdzcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alessio/Documents/esercizi_C\#/Friuland_in_Blazor/Components/Pages/Prenota.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcmVub3RhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alessio/Documents/esercizi_C\#/Friuland_in_Blazor/Components/Pages/Ristorantii.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xSaXN0b3JhbnRpaS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Alessio/Documents/esercizi_C\#/Friuland_in_Blazor/Components/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Alessio/Documents/esercizi_C\#/Friuland_in_Blazor/Components/Ristoranti.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSaXN0b3JhbnRpLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Alessio/Documents/esercizi_C\#/Friuland_in_Blazor/Components/Routes.razor]

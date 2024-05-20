@@ -1,0 +1,20 @@
+﻿<div class="card" style="width: 30rem ; ">
+  <img class="card-img-top" src="/Content/@img" alt="Card image cap">
+  <div class="card-body">
+    <h5 class="card-title">@nomeRistorante</h5>
+    <p class="card-text">@descrizione</p>
+    <a href="#" class="btn btn-primary">Scopri di più</a>
+  </div>
+</div>
+
+@code {
+     [Parameter]
+    public string nomeRistorante { get; set; }
+
+    [Parameter]
+    public string descrizione { get; set; }
+
+    [Parameter]
+    public string img{ get; set; }
+
+}

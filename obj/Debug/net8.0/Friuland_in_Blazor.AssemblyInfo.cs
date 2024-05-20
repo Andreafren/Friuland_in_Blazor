@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Friuland_in_Blazor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3704ca0d5a02debaba2bca4a6d748e0638c593a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac280f0bf7b074d25339995eebee70f7281f407b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Friuland_in_Blazor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Friuland_in_Blazor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
